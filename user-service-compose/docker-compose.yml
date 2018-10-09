@@ -1,0 +1,26 @@
+version:  '2'
+services:
+  mysql:
+    image:  mysql
+    ports:
+      -  "3306:3306"
+    container_name:  mysql-docker
+    network_mode:  host
+    environment:
+        MYSQL_ROOT_PASSWORD:  root
+        MYSQL_DATABASE:  user
+        MYSQL_USER:  root
+        MYSQL_PASSWORD:  root
+
+  spring:
+    image:  ms
+    build:  user-service/
+    restart:  always
+    network_mode:  host
+    container_name:  spring-docker
+    depends_on:
+      -  mysql
+    ports:
+      -  8080:8080
+    expose:
+      -  8080

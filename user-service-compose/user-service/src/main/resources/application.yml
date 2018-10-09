@@ -1,0 +1,35 @@
+server:
+    port: 8080
+#spring:
+#    datasource:
+#        driver-class-name: com.mysql.jdbc.Driver
+#        password: root
+#        url: jdbc:mysql://localhost:3306/user
+#        username: root
+#    jpa:
+#        generate-ddl: false
+#        hibernate:
+#            ddl-auto: create
+#        openInView: false
+#        show_sql: true
+jdbc:
+    basic:
+        maxOpenPreparedStatements: -1
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        password: root
+        url: jdbc:mysql://localhost:3306/user
+        username: root
+    h2:
+        console:
+            enabled: true
+    jackson:
+        serialization:
+            write_dates_as_timestamps: false
+    jpa:
+        generate-ddl: false
+        hibernate:
+            ddl-auto: create
+        openInView: false
+        show_sql: true
