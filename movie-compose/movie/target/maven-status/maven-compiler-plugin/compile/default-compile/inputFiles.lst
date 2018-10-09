@@ -1,0 +1,10 @@
+/home/cgi/movie/src/main/java/com/stackroute/movie/service/MovieServiceImpl.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/repository/MovieRepository.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/service/MovieService.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/exception/MovieAlreadyExistsException.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/MovieApplication.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/domain/Movie.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/configuration/SwaggerConfiguration.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/service/MovieServiceImpl2.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/exception/MovieNotFoundException.java
+/home/cgi/movie/src/main/java/com/stackroute/movie/controller/MovieController.java
