@@ -1,0 +1,7 @@
+spring:
+    data:
+        mongodb:
+            database: test_movie
+            host: localhost
+            port: 27017
+            uri: mongodb://localhost/test_movie

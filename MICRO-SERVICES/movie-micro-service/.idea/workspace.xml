@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95539750-23fe-4f37-8b2e-42318ae34bad" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1371868909">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="47" />
+          <entry key="java" value="4148" />
+          <entry key="properties" value="134" />
+          <entry key="xml" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4148" />
+          <entry key="PLAIN_TEXT" value="47" />
+          <entry key="Properties" value="134" />
+          <entry key="XML" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="8" />
+          <entry key="java" value="147" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="7" />
+          <entry key="xml" value="8" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="8" />
+          <entry key="JAVA" value="147" />
+          <entry key="Properties" value="7" />
+          <entry key="XML" value="9" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="44757955">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="4" />
+          <entry key="properties" value="57" />
+          <entry key="yml" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Properties" value="57" />
+          <entry key="YAML" value="59" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="1468657845">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="103" />
+          <entry key="xml" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="103" />
+          <entry key="XML" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/MovieApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/controller/MovieController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2550">
+              <caret line="170" column="24" selection-start-line="170" selection-start-column="24" selection-end-line="170" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/movie</find>
+      <find>Show</find>
+      <find>movieservice</find>
+      <find>getId()</find>
+      <find>user</find>
+      <find>save</find>
+      <find>description</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Movie</replace>
+      <replace>getMovieId()</replace>
+      <replace>movie</replace>
+      <replace>insert</replace>
+      <replace>comments</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/service/MoviePrintService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/repository/MovieRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/service/MovieServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/service/MovieService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/domain/Movie.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/controller/MovieController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movieservice/configuration/MovieConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/configuration/MovieConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/exception/MovieAlreadyExistsException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/exception/MovieNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MoviePrintService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/MovieServiceApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/AMovieApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/configuration/SwaggerConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/repository/MovieRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/exception/MovieNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/controller/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/domain/Movie.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/movie/service/MovieServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MovieService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MovieServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/configuration/DataPreLoadConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MovieServiceImpl2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/movie/controller/MovieControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/movie/service/MovieServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/movie/repository/MovieRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/MovieApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/movie/controller/MovieController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="movie-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="movie-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="movie-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="movie-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-data-jpa:2.0.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="movie-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework.boot:spring-boot-starter-web:2.0.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="16" />
+    <option name="width" value="1281" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="user-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="movie-micro-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539261825190" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/com/stackroute/movie" />
+    <property name="last_opened_file_path" value="$USER_HOME$/tanusha/keepnotes/KeepNote-Step2-Boilerplate" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.movie.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stackroute.movie.service" />
+      <recent name="com.stackroute.movie.repository" />
+      <recent name="com.stackroute.movie.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/com/stackroute/movie" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MovieApplication">
+    <configuration name="MovieApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="10" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.movie.MovieApplication" />
+      <module name="movie-micro-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.movie.MovieApplication" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.movie.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.movie.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.movie.controller.MovieControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieControllerTest.saveMovie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.movie.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.movie.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.movie.controller.MovieControllerTest" />
+      <option name="METHOD_NAME" value="saveMovie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.movie.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.movie.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.movie.repository.MovieRepositoryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.movie.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.movie.service" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.movie.service.MovieServiceTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieServiceTest.getAllMovie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="movie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.movie.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.movie.service" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.movie.service.MovieServiceTest" />
+      <option name="METHOD_NAME" value="getAllMovie" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MovieApplication" />
+      <item itemvalue="JUnit.MovieControllerTest" />
+      <item itemvalue="JUnit.MovieRepositoryTest" />
+      <item itemvalue="JUnit.MovieControllerTest.saveMovie" />
+      <item itemvalue="JUnit.MovieServiceTest" />
+      <item itemvalue="JUnit.MovieServiceTest.getAllMovie" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MovieRepositoryTest" />
+        <item itemvalue="JUnit.MovieControllerTest" />
+        <item itemvalue="JUnit.MovieServiceTest" />
+        <item itemvalue="JUnit.MovieServiceTest.getAllMovie" />
+        <item itemvalue="JUnit.MovieControllerTest.saveMovie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95539750-23fe-4f37-8b2e-42318ae34bad" name="Default Changelist" comment="" />
+      <created>1538655296765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538655296765</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MovieControllerTest - 2018.10.11 at 15h 44m 13s.xml">
+      <configuration name="MovieControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieRepositoryTest - 2018.10.11 at 15h 44m 20s.xml">
+      <configuration name="MovieRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieRepositoryTest - 2018.10.11 at 15h 45m 43s.xml">
+      <configuration name="MovieRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieControllerTest - 2018.10.11 at 15h 47m 50s.xml">
+      <configuration name="MovieControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieRepositoryTest - 2018.10.11 at 15h 48m 00s.xml">
+      <configuration name="MovieRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieServiceTest - 2018.10.11 at 15h 48m 05s.xml">
+      <configuration name="MovieServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieRepositoryTest - 2018.10.11 at 15h 48m 51s.xml">
+      <configuration name="MovieRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieControllerTest - 2018.10.11 at 15h 49m 00s.xml">
+      <configuration name="MovieControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieControllerTest - 2018.10.11 at 16h 00m 24s.xml">
+      <configuration name="MovieControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MovieRepositoryTest - 2018.10.11 at 16h 00m 43s.xml">
+      <configuration name="MovieRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3258964" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="0" weight="0.32972136" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32972136" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="1.0" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32972136" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.38235295" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.2940239" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24940239" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="843" selection-start-line="843" selection-end-line="843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/configuration/MovieConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MoviePrintService.java" />
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/exception/MovieAlreadyExistsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/exception/MovieNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.5.RELEASE/spring-boot-dependencies-2.0.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="351" column="12" selection-start-line="351" selection-start-column="12" selection-end-line="351" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/exception/MovieAlreadyExistsException.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/domain/Movie.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/controller/MovieController.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/service/MovieServiceImpl2.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/service/MovieServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/repository/MovieRepository.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/MovieApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/configuration/SwaggerConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/service/MovieService.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/movie/exception/MovieNotFoundException.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/controller/UserControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.10.RELEASE/spring-data-commons-2.0.10.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/service/MovieServiceImplTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MovieService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MovieServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="45" column="53" selection-start-line="45" selection-start-column="53" selection-end-line="45" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/configuration/DataPreLoadConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/configuration/SwaggerConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/service/MovieServiceImpl2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.0.10.RELEASE/spring-data-mongodb-2.0.10.RELEASE.jar!/org/springframework/data/mongodb/repository/MongoRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.10.RELEASE/spring-data-commons-2.0.10.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="64" lean-forward="true" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.10.RELEASE/spring-data-commons-2.0.10.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/repository/MovieRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="49" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/domain/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/MovieServiceImplApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/service/MovieServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="156" column="30" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/controller/MovieControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/movie/repository/MovieRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="118" column="5" lean-forward="true" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/MovieApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="170" column="24" selection-start-line="170" selection-start-column="24" selection-end-line="170" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/movie/controller/MovieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
